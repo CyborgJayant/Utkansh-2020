@@ -33,6 +33,7 @@ Main components
 .cd-logo {
   top: 28px;
   left: 5%;
+  width:95%;
   position: relative;
   z-index: 104;
   display: inline-block;
