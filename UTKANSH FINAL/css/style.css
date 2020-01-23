@@ -195,6 +195,11 @@ h2
     color: aliceblue;
 }
 
+.orLine{
+    margin-top: 4.2%;
+    color: grey;
+}
+
 /*------------------------------------------------------------
 # homepage-next-events
 ------------------------------------------------------------*/
@@ -605,7 +610,7 @@ h2
 
 .btn-facebook {
   color: white;
-  background-color: #3b5998;
+  background-color: #2e3045;
 }
 
 /* Fallback for Edge
